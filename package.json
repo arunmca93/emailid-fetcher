@@ -1,0 +1,30 @@
+{
+  "name": "emailid-fetcher",
+  "version": "1.0.2",
+  "description": "Fetching email IDs from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunmca93/emailid-fetcher.git"
+  },
+  "keywords": [
+    "emailid-fetcher",
+    "email",
+    "fetcher",
+    "website-emailid-fetcher"
+  ],
+  "author": "Arunkumar G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunmca93/emailid-fetcher/issues"
+  },
+  "homepage": "https://github.com/arunmca93/emailid-fetcher#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "striptags": "^3.1.1"
+  }
+}
